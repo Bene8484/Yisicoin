@@ -2,15 +2,19 @@
 
 ## Secure • Fast • Community
 
-YisiCoin ist ein Community-Token auf Polygon.
+YisiCoin is a community-driven cryptocurrency built on Polygon.
 
 ### Token Information
 
-- Name: YisiCoin
-- Symbol: YISI
-- Network: Polygon Amoy
-- Decimals: 18
-- Total Supply: 1,000,000 YISI
+Name: YisiCoin
+
+Symbol: YISI
+
+Network: Polygon Amoy
+
+Decimals: 18
+
+Total Supply: 1,000,000 YISI
 
 ### Contract Address
 
@@ -18,12 +22,12 @@ YisiCoin ist ein Community-Token auf Polygon.
 
 ### Vision
 
-A simple community-driven token focused on accessibility, transparency and innovation.
+To create a simple, transparent and community-focused digital currency.
 
 ### Website
 
-Coming soon
+Coming Soon
 
-### Socials
+### Social Media
 
-Coming soon
+Coming Soon
